@@ -573,9 +573,9 @@ Copy-Item .env.example .env.local
 Configure:
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_URL=https://your-project-id.supabase.co
 
-NEXT_PUBLIC_SUPABASE_KEY=your-supabase-publishable-or-anon-key
+SUPABASE_KEY=your-supabase-publishable-or-anon-key
 
 NEXTAUTH_URL=http://localhost:3000
 
